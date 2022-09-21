@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=300&section=header&text=Junyoung%20Kim&fontSize=90&desc=I%20can%20do%20this%20all%20day.&descAlign=50&descAlignY=70)
 
-<p align=""><img alt="Spring" src ="https://img.shields.io/badge/=Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></p>
-<p align=""><img alt="Django" src ="https://img.shields.io/badge/=Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/></p>
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 
 
