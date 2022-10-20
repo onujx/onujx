@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=300&section=header&text=Junyoung%20Kim&fontSize=90&desc=I%20can%20do%20this%20all%20day.&descAlign=50&descAlignY=70)
 
-<p align="center">🎄 Tech Skills 🎄<hbr></p>
+<p align="center"> Tech Skills <hbr></p>
 
 <p align="center">
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -13,5 +13,5 @@
 </p>
 
 
-<p align="center">🎄 Contacts 🎄<hbr></p>
+<p align="center"> Contacts <hbr></p>
 <p align="center"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></p>
