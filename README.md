@@ -13,5 +13,5 @@
 </p>
 
 
-<p align="center">   𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 <hbr></p>
+<p align="center">   Contact <hbr></p>
 <p align="center"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></p>
