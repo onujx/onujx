@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=300&section=header&text=Junyoung%20Kim&fontSize=70&desc=I%20can%20do%20this%20all%20day.&fontSize=25&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=300&section=header&text=Junyoung%20Kim&fontSize=50&desc=I%20can%20do%20this%20all%20day.&fontSize=25&descAlign=50&descAlignY=70)
 
 <p align="center">   𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 <hbr></p>
 
