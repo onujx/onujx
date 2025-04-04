@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=13264E&text=I%20can%20do%20this%20all%20day.&fontSize=15&descSize=10&animation=twinkling&textBg=false&fontColor=FFFFFF&reversal=false&section=header&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=13264E&text=I%20can%20do%20this%20all%20day.&fontSize=10&descSize=10&animation=twinkling&textBg=false&fontColor=FFFFFF&reversal=false&section=header&fontAlign=50)
 
 
 <p align="center">   𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 <hbr></p>
